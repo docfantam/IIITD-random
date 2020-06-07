@@ -1,12 +1,12 @@
 # 2.1.4 Quantile Sketch
 
-## Research Report (Unpublished)
+## `StreamingAlgsReport.pdf`
 ---
-
+My research report on __Streaming Algorithms for Chi-Square and Kolmogorov-Smirnov Tests using Quantile Sketch__
 
 ## Implementation
 ---
-Found broken code @ [2] https://www.mathcs.emory.edu/~cheung/Courses/584/Syllabus/08-Quantile/Greenwald.c
+Found broken code for Quantile Sketch @ [2] https://www.mathcs.emory.edu/~cheung/Courses/584/Syllabus/08-Quantile/Greenwald.c
 
 Fixed it 🎅
 
