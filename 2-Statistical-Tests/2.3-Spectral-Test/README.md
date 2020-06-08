@@ -1,19 +1,16 @@
 # 2.3 Spectral Test
 
 ## Prerequisites
----
 - [GMP Library](https://gmplib.org/)
 - [GNU Make](https://www.gnu.org/software/make/)
 
 ## Usage
----
 ```
 make
 ./spectral [-v Verbose]
 ``` 
 
 ## References
----
 ### Original Paper
 1. Marsaglia, George. "Random numbers fall mainly in the planes." Proceedings of the National Academy of Sciences of the United States of America 61.1 (1968): 25
 
@@ -28,12 +25,10 @@ make
 7. [Wikipedia - RANDU](https://en.wikipedia.org/wiki/RANDU)
 
 ## Interactive Demonstrations
----
 1. [Linear Congruential Sequences](http://demonstrations.wolfram.com/LinearCongruentialSequences/) - Stephen Wolfram, Wolfram Demonstrations Project, Published: March 7 2011
 2. [Linear Congruential Generators](http://demonstrations.wolfram.com/LinearCongruentialGenerators/) - Joe Bolte, Wolfram Demonstrations Project, Published: March 7 2011
 
 ## Additional Reading
----
 ### upto t = 24 
 1. https://web.archive.org/web/20020620061127/http://random.mat.sbg.ac.at/results/karl/spectraltest/impl.html
 

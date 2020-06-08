@@ -1,11 +1,9 @@
 # 2.1.4 Quantile Sketch
 
 ## `StreamingAlgsReport.pdf`
----
 My research report on __Streaming Algorithms for Chi-Square and Kolmogorov-Smirnov Tests using Quantile Sketch__
 
 ## Implementation
----
 Found broken code for Quantile Sketch @ [2] https://www.mathcs.emory.edu/~cheung/Courses/584/Syllabus/08-Quantile/Greenwald.c
 
 Fixed it 🎅
@@ -17,7 +15,6 @@ Fixed it 🎅
 - `Greenwald-ks.c` Implemented Kolmogorov-Smirnov Test [5] using Quantile Sketch
 
 ## References
----
 ### Original Paper
 1. Greenwald, Michael, and Sanjeev Khanna. "Space-efficient online computation of quantile summaries." ACM SIGMOD Record 30.2 (2001): 58-66
 
@@ -32,7 +29,6 @@ Fixed it 🎅
 5. Lall, Ashwin. "Data streaming algorithms for the Kolmogorov-Smirnov test." 2015 IEEE International Conference on Big Data (Big Data). IEEE, 2015
 
 ## Additional Reading
----
 ### Streaming Algorithms for Quantiles
 1. Wang, Lu, et al. "Quantiles over data streams: an experimental study." Proceedings of the 2013 ACM SIGMOD International Conference on Management of Data. ACM, 2013
     - [Slides](https://speakerdeck.com/coolwanglu/quantiles-over-data-streams-an-experimental-study)

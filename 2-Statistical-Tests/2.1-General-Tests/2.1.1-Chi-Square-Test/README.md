@@ -1,20 +1,17 @@
 # 2.1.1 Chi-Square Test
 
 ## Prerequisites
----
 - [GMP Library](https://gmplib.org/)
 - [Boost](https://www.boost.org/)
 - [GNU Make](https://www.gnu.org/software/make/)
 
 ## Usage
----
 ```
 make
 ./cs
 ``` 
 
 ## References
----
 ### Algorithm
 1. Section 3.3.1, Donald E. Knuth, "The Art of Computer Programming Volume 2: Seminumerical Algorithms", Addison-Wesley Professional, 1997
 
